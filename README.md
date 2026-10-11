@@ -35,6 +35,12 @@ graph TD
 ## 2. Scenario Lab & Evaluation Center
 
 Accessible directly from the sidebar navigation (`Scenario Lab`), the evaluation testbench allows evaluators to upload assets, run live model forward passes, validate data feeds, and export forensic evidence bundles:
+<img width="1600" height="680" alt="image" src="https://github.com/user-attachments/assets/68befaec-5ba1-42f4-805c-f430d6bfdc2a" />
+<img width="1600" height="664" alt="image" src="https://github.com/user-attachments/assets/3e47de17-07af-4862-9602-a4a331836d67" />
+<img width="1600" height="737" alt="image" src="https://github.com/user-attachments/assets/10dba735-6bb3-4ebd-b7be-78a8259d572d" />
+<img width="1600" height="728" alt="image" src="https://github.com/user-attachments/assets/1f7b2a49-699d-42e3-9112-c83f942d087a" />
+
+
 
 ### Scenario A — SAR Maritime Vessel Detection
 - **Target Sensor**: Sentinel-1 SAR synthetic aperture radar (IW GRDH).
