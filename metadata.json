@@ -1,0 +1,6 @@
+{
+  "name": "Maritime Threat Detection & Fusion Dashboard",
+  "description": "Multi-modal maritime situational awareness and threat fusion platform for dark vessel detection, AIS anomaly analysis, and SAR correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
